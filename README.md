@@ -26,3 +26,10 @@ The aim is to identify patterns which indicate if a person is likely to default,
 - Risky purposes such as vacation ,moving  etc the rate of interest should be increased as the risk of default exposure will be covered . If not to avoid certain states with certain purpoes which have a high default record should be avoided
 - Lending less than 10K which mitigate the risk of default
 - Should avoid giving low income group high amount loans above 10k especially states having low income.
+
+### Technologies Used
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
